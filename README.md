@@ -8,7 +8,7 @@ CG-Fundus (Chang Gung Fundus) Database is a large thematic database comprising d
 CG Fundus Database supports a diverse range of analytic studies spanning epidemiology, artifical intellgence, and electronic tool development. 
 Researchers seeking to use the database must request access by providing a unformatted study proposal toward Center for Artifical Intellgence in Medicine, Chang Gung Memorial Hospital.
  
-![Figure 1. The Data Structure of CG Fundus Database.] (https://github.com/JSChen0404/Chang-Gung-Fundus-Database/blob/main/CG-Fundus-Database.png)
+![Figure 1. The Data Structure of CG Fundus Database.](https://github.com/JSChen0404/Chang-Gung-Fundus-Database/blob/main/CG-Fundus-Database.png)
 
 ## Patient Definition
 Study population was defined as patients visited the ophthalmology department and had the examine for fundus photo picture according to the procedure code of S47-662 from January 2004 and October 2018. Patients collection was based on one of large mediacl center hospital (Linko branch, Chang Gung Memorial Hospital) in Taiwan, which comprising 7% of Taiwan patients population. All color fundus images during study period were collected. Finally, The database comprise 384,743 color fundus images from 25,605 patients. 
