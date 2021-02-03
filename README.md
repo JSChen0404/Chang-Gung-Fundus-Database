@@ -27,7 +27,7 @@ For anonymization purposes, we generated a random identifier for each patient wi
 ## Color Fundoscopic Examination
 Fundoscopic examination uses a magnifying lens and a light to check the fundus of the eye (back of the inside of the eye, including the retina and optic nerve). The ophthalmoscope illuminates the retina through the normal iris defect that is the pupil. Visualization of the retina can provide lots of information about a medical diagnosis. These diagnoses include high blood pressure, diabetes, increased pressure in the brain and infections like endocarditis. Around 3~15 fundus photos may be taken in one examination and one of them was a summary picture for corresponding exam. This database contains 384,743 photos from 51,718 examinations. For anonymization purposes, all patient information on the photos were de-identified. 
 
-
+![Figure 2. Sample Fundus Photos.](https://github.com/JSChen0404/Chang-Gung-Fundus-Database/blob/main/sample%20data.jpg)
 
 ## Requesting Data access
 To request a dataset, please contact the Center of Artificial Intelligence in Medicine at cgmhailab@gmail.com
